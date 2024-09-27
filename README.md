@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently the Co-founder and CTO of artifact AI working on cutting edge generative AI agentic pipelines and full stack development.
+I'm the Co-founder and CTO of Artifact AI, working on cutting edge generative AI agentic pipelines and full stack development.
 
 
 ## 🌐 Socials:
